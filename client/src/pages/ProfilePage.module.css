@@ -1,0 +1,17 @@
+.cardWrapper {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 2rem 0 0 0;
+}
+
+li {
+    text-align: center;
+}
+
+img {
+    width: 100px !important;
+    padding: 20px;
+    margin: auto;
+}
